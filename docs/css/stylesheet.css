@@ -50,7 +50,7 @@ img {
 
 /*--Fixed Landing Page Content--*/
 .home-inner{
-  background-image: url(images/jmucampus.jpg);
+  background-image: url(doc/images/jmucampus.jpg);
   position: fixed;
 }
 .caption{
